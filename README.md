@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on building my skills as a Data Scientist by collaborating in a project about possible trends regarding Anxiety and Depression Symptoms during the Coronavirus Pandemic. 
-- 🌱 I’m currently learning Python for Visualization and Analysis. I consider myself profficient at this point. Next step is to become more knowledgeable of advanced Statistics.
-- 💬 Ask me about my hobby, investing. I will soon be a focus investor!
+- 🌱 I’m currently learning Python for Visualization and Analysis. I consider myself proficient at this point. My next step is to become more knowledgeable of advanced Statistics.
+- 💬 Ask me about my hobby, investing. I will soon be a focus investor! I am working on a Data Science project regarding focus investing.
 - 📫 How to find me: 
    - :office: [LinkedIn]
    (https://www.linkedin.com/in/sarino-russo/)

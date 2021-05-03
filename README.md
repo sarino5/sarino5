@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
 
-- 🔭 I’m currently working on building my skills as a Data Scientist by collaborating in a project about possible trends regarding Anxiety and Depression Symptoms during the Coronavirus Pandemic. 
+- 🔭 I’m currently working on building my skills as a Data Scientist by working in different projects and learning different tools. If you want to collab, hit me up!
 - 🌱 I’m currently learning Python for Visualization and Analysis. I consider myself proficient at this point. My next step is to become more knowledgeable of advanced Statistics.
 - 💬 Ask me about my hobby, investing. I will soon be a focus investor! I am working on a Data Science project regarding focus investing.
 - 📫 How to find me: 

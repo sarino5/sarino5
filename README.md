@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m an Ex-LinkedIn Data Scientist with experience in Product Analytics. If you want to collab, hit me up!
-- 🌱 I consider my strenghts to be found in leveraging my SQL and Python skills dive into Big Data and deliver valuable insights. I am well versed in using sci-kit learn to create ML models, yet I am working on developing Deep Learning and MLOps skills.
+- 🌱 I consider my strengths to be found in leveraging my SQL and Python skills to dive into Big Data and deliver valuable insights. I am well versed in using sci-kit learn to create ML models, yet I am working on developing Deep Learning and MLOps skills.
 - 💬 Ask me about my hobbies: investing and fitness.
 - 📫 How to find me: 
    - :office: [LinkedIn]
